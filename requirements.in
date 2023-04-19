@@ -1,0 +1,20 @@
+# to generate requirements.txt: pip-compile requirements.in --resolver=backtracking
+# python3 -m pip install ipykernel -U --user --force-reinstall
+
+fire
+tqdm
+ipywidgets
+black
+flake8
+isort
+pandas
+matplotlib
+seaborn
+fsspec
+gcsfs
+psutil
+joblib
+pytest
+wordcloud
+scipy
+requests_html

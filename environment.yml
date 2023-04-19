@@ -1,0 +1,13 @@
+name: black_box
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.10
+  - cudatoolkit=11.3
+  - google-api-python-client
+  - pip
+  - ipython
+  - pip:
+    - pip-tools
+    - -r requirements.txt
