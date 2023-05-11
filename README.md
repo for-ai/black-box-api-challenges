@@ -113,13 +113,11 @@ python -m scripts.helm.score_and_collate \
 # Citation
 
 ```
-@inproceedings{
-    pozzobon2023on,
-    title={On the Challenges of Using Black-Box {API}s for Toxicity Evaluation in Research},
-    author={Luiza Amador Pozzobon and Beyza Ermis and Patrick Lewis and Sara Hooker},
-    booktitle={ICLR 2023 Workshop on Trustworthy and Reliable Large-Scale Machine Learning Models },
-    year={2023},
-    url={https://openreview.net/forum?id=bRDHL4J5vy}
+@article{pozzobon2023challenges,
+  title={On the Challenges of Using Black-Box APIs for Toxicity Evaluation in Research},
+  author={Pozzobon, Luiza and Ermis, Beyza and Lewis, Patrick and Hooker, Sara},
+  journal={arXiv preprint arXiv:2304.12397},
+  year={2023}
 }
 ```
 
